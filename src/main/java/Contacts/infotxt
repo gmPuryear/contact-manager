@@ -1,0 +1,51 @@
+Order Operations
+------------------------------------------------------------------------------------------------------------------------
+Method for printing menu
+Method for Add/new contact writing to a file for updating
+Method for Delete/Replace contacts
+Store each name in a arraylist to pull from text file = possible hashmap
+Hashmap contains list of contacts(obj)
+key integer and the names will be a obj to pull from
+
+Methods that should be added
+
+*GetName
+*String("")
+*getPhoneNum
+*setNameprint
+*setPhone
+*Main Class = Contacts*
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+######################################
+System.Printout should have this types
+######################################
+
+1.View contacts
+----------------------
+Name | Phone number | Email possible
+----------------------
+2.Add a contacts
+----------------------
+Show all contacts
+pick one of the contacts
+----------------------
+3.Search a contact
+----------------------
+auto generate names possibly
+----------------------
+4.Delete an existing contact
+----------------------
+Show all contacts pick one to delete
+----------------------
+5.exit
+******************************
+"Wording for exit on pop out"
+******************************
+6. possible funny
+******************************
+"either different function to exit or possible phone call"
+
+

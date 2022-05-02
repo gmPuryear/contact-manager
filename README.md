@@ -1,2 +1,1 @@
-# contact-manager
-Created contact manager program in java that allows users to search for, add, and delete contacts. Each contact has a first name, last name, and phone number. 
+# ContactManager
